@@ -1,2 +1,3 @@
 # Computer_Project_PHYS332
-Motion of a Charged Particle in Dipole Field Computer Project
+
+Look at PHYS332_computer_project.pdf
